@@ -1,0 +1,2 @@
+# DeepFake_Detection_Model
+DeepFake_Detection_Using_Convolutional_Neural_Networks(CNN)
